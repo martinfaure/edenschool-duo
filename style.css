@@ -1,14 +1,13 @@
 p {
-  position: relative;
-  justify-content: left;
-  color: white;
+	position: relative;
+	justify-content: left;
+	color: rgb(0, 0, 0);
 }
 
 .card-plus4 {
-}
-
-.card-4coulours {
-}
-
-.card-back {
+	border: solid red 3px;
+	width: 280px;
+	height: 395px;
+	border-radius: 3%;
+	background-color: black;
 }
