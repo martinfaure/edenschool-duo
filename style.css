@@ -1,0 +1,13 @@
+.card {
+	width: 280px;
+	height: 395px;
+	border: solid red 2px;
+	border-radius: 5%;
+	background-color: rgb(44, 111, 255);
+}
+
+span {
+	position: relative;
+	justify-content: left;
+	color: white;
+}
