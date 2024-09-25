@@ -1,13 +1,14 @@
-.card {
-	width: 280px;
-	height: 395px;
-	border: solid red 2px;
-	border-radius: 5%;
-	background-color: rgb(44, 111, 255);
+p {
+  position: relative;
+  justify-content: left;
+  color: white;
 }
 
-span {
-	position: relative;
-	justify-content: left;
-	color: white;
+.card-0 {
+}
+
+.card-1 {
+}
+
+.card-2 {
 }
